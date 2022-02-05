@@ -1,7 +1,7 @@
  #🤯 30DaysChallenge - 30 Days Extreme HTML & CSS CHALLENGE 🤯#
 
 Neon Buttons - Este projeto tem por objetivo relizar o desafio dos 30 dias de HTML & CSS,
-para aprender a estiliazar páginas e implementar no dia a dia.
+para aprender a estilizar páginas e implementar no dia a dia.
 🚀️💻️
 
 ### Desafio dia 01: Icones de midias sociais em camada
